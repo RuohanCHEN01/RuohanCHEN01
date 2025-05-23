@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruohan CHEN! 👋
 
-- :school: School: A MPhil student at [SPH of HKU](https://sph.hku.hk/).
+- :school: School: A PhD student at [SPH of HKU](https://sph.hku.hk/).
 - :grey_question: Research area:
   _Epidemiology and Biostatistics_
   / _model work on influenza & mecidecine_
