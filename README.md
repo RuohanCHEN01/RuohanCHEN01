@@ -5,6 +5,6 @@
   _Epidemiology and Biostatistics_
   / _model work on influenza & mecidecine_
 - :page_with_curl: Websites: [ORCID](https://orcid.org/0009-0008-3739-8098) / [ResearchGate](https://www.researchgate.net/profile/Ruohan-Chen-4)
-- ⚡Coding: Python / Rstudio
-- 🏃Sports: Scuba Diving / Swimming / Bouldering
+- ⚡Coding: Python / R / SAS
+- 🏃Hobbies: Scuba Diving / Swimming / Traveling / Planning travels
 - :laughing:Language: Chinese / English
