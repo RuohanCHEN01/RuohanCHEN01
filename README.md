@@ -6,7 +6,7 @@
   / _model work on influenza & mecidecine_
 - :page_with_curl: Websites: [ORCID](https://orcid.org/0009-0008-3739-8098) / [ResearchGate](https://www.researchgate.net/profile/Ruohan-Chen-4)
 - ⚡Coding: Python / R 
-- 🏃Hobbies: Scuba Diving / Swimming / Traveling / Planning travels
+- 🏃Hobbies: Scuba Diving / Bouldering / Swimming / Traveling
 - :laughing:Language: Chinese / English
 
 #### If you are interested in my work, would like to collaborate, or explore potential projects together, please feel free to contact me via email: *ruohan0@connect.hku.hk*
